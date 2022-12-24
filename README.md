@@ -1,11 +1,13 @@
-# TimeGoes 时流记 for macOS
-## 相信坚持的力量！
+# 时流记 - 相信坚持的力量！ 
 
-[Free Download on the Mac App Store](https://apps.apple.com/cn/app/时流记-记录美好时光/id1579812310)
+[![App Icon](icon-128.png)](https://apps.apple.com/cn/app/时流记-记录美好时光/id1579812310)
 
-    坚持每日打卡！
-    坚持时间管理！
-    开启自律人生！
+[![Download_on_the_Mac_App_Store_Badge](download.svg)](https://apps.apple.com/cn/app/时流记-记录美好时光/id1579812310)
+
+![App Icon](screenshot-1.png)
+
+    坚持每日打卡，养成记录时间的好习惯。
+    相信坚持的力量！让我们一起见证奇迹！
 
 【记录】事项自由规划，轻点随心启停
 
