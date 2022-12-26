@@ -1,19 +1,36 @@
-# 时流记 - 相信坚持的力量！ 
+<p align="center" dir="auto">
+  <a href="https://apps.apple.com/cn/app/时流记-记录美好时光/id1579812310">
+    <img src="icon-128.png" alt="App Icon" style="max-width: 100%;">
+  </a>
+</p>
+<p align="center" dir="auto">
+  <a href="https://apps.apple.com/cn/app/时流记-记录美好时光/id1579812310">
+    <img src="download.svg" alt="Download_on_the_Mac_App_Store_Badge" style="max-width: 100%;">
+  </a>  
+</p>
+<p align="center" dir="auto">
+  <a href="../../releases/latest">
+    DMG 镜像下载
+  </a>  
+</p>
+<p align="center" dir="auto">
+    <img src="screenshot-1.png" alt="App Screenshot" style="max-width: 100%;">
+</p>
 
-[![App Icon](icon-128.png)](https://apps.apple.com/cn/app/时流记-记录美好时光/id1579812310)
+---
 
-[![Download_on_the_Mac_App_Store_Badge](download.svg)](https://apps.apple.com/cn/app/时流记-记录美好时光/id1579812310)
+<h3 align="center">
+坚持每日打卡，养成记录时间的好习惯。
+相信坚持的力量！让我们一起见证奇迹！
+</h3>
 
-![App Icon](screenshot-1.png)
+<div align="center">
 
-    坚持每日打卡，养成记录时间的好习惯。
-    相信坚持的力量！让我们一起见证奇迹！
-
-【记录】事项自由规划，轻点随心启停
-
-【同步】iCloud 自动同步，安全更省心
-
-【打卡】习惯养成，从每日打卡开始
+ 【记录】事项自由规划，轻点随心启停
+ 
+ 【同步】iCloud 自动同步，安全更省心
+ 
+ 【打卡】习惯养成，从每日打卡开始
 
 【动画】见证每一滴时光流逝
 
@@ -28,3 +45,5 @@
 【应用生命】坚持的路上，你不再孤单！
 
 【统计图表】定期回顾分析，持续改进优化
+
+</div>
