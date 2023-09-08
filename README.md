@@ -1,4 +1,4 @@
-[![App Icon](icon-128.png)](https://apps.apple.com/cn/app/时流记-记录美好时光/id1579812310)
+[![App Icon](icon-128.png?v=1.6.11)](https://apps.apple.com/cn/app/时流记-记录美好时光/id1579812310)
 
 # 时流记 - 相信坚持的力量！
 
@@ -35,4 +35,4 @@
 
 ## Download
 
-[![GitHub release (with filter)](https://img.shields.io/github/v/release/goldenlove/TimeGoes-Mac?color=green)](../../releases/latest)
+[![GitHub release (with filter)](https://img.shields.io/github/v/release/goldenlove/TimeGoes-Mac?color=green&v=1.6.11)](../../releases/latest)
