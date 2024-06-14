@@ -1,38 +1,41 @@
-[![App Icon](icon-128.png?v=1.6.11)](https://apps.apple.com/cn/app/时流记-记录美好时光/id1579812310)
+[![App Icon](./images/icon-128.png?v=1.7.8)](https://apps.apple.com/en/app/timegoing-chrono-is-life/id1579812310)
 
-# 时流记 - 相信坚持的力量！
+# 时流记 - 时间就是生命
 
-[![Mac App Store Download](download.svg)](https://apps.apple.com/cn/app/时流记-记录美好时光/id1579812310)
+[English](./README.en.md)
 
-你是否有过这样的困扰？
-总是想做很多事情却总是没有时间？
-总是拖延到最后什么都没有做？
+### 简介
 
-我们的应用可以帮助你养成记录时间的好习惯，让你知道自己花费了多少时间在什么事情上。   
-从现在开始给每件事情赋予仪式感，相信坚持一段时间后你一定能感受到专注和效率提升。
+是否总觉得时间不够用？总是拖延，结果什么都没做成？   
+我们的应用能助你记录时间，了解每件事的时间花费。  
 
-拒绝拖延，立即免费下载！让你的时间更有价值吧！
+**拒绝拖延，立即免费下载！让你的时间更有价值！**
 
-* 记录：自由规划，一键启停
-* 同步：iCloud 自动同步，安全省心
-* 打卡：习惯养成，每日见证成长
-* 动画：直观展示时光流逝，激励前行
-* 列表管理：合理分组，工作生活两不误
-* Siri 快捷指令：一句话启动事项，更快更方便
-* 桌面小组件：实时掌握事项状态，动态更新
-* 主屏快捷菜单：长按直达，操作更流畅
-* 拖拽排序：符合直觉，操作更简单
-* 提醒：自定义提醒间隔，再忙也不会忘
-* 存档：保存重要事项，记录每一步成长
-* 时长校准：支持手动校准时长，强迫症福音
-* 应用生命：坚持的路上，你并不孤单！
-* 统计图表：定期回顾分析，持续改进优化
+### 下载
 
-![时流记 相信坚持的力量！](screenshot-1.png)
-![持之以恒](screenshot-2.png)
-![锲而不舍](screenshot-3.png)
-![水滴石穿](screenshot-4.png)
+| App Store | DMG 镜像 |
+| --- | --- |
+| [![App Store](./images/download.svg)](https://apps.apple.com/en/app/timegoing-chrono-is-life/id1579812310) | [![GitHub Release](https://img.shields.io/github/v/release/goldenlove/TimeGoes-Mac?color=green&v=1.7.8)](../../releases/latest) |
 
-## Download
+### 功能
+* 状态栏计时器：一键开启，随时专注
+* 状态栏菜单：随意切换，便捷省心
+* 同步：iCloud 数据同步，跨设备共享
+* 打卡：每日提醒，习惯养成
+* 动画：直观展示，砥砺前行
+* 列表管理：认真工作，快乐生活
+* 拖拽排序：直观操作，简单易用
+* 提醒：时间随心设，推送准时达
+* 存档：保存历史，记录成长
+* 备份：自助备份，不怕误删
+* 时长校准：秒级校准，强迫症福音
+* 应用生命：友伴相随，成长路上不孤单
+* 统计图表：定期回顾，持续优化
 
-[![GitHub release (with filter)](https://img.shields.io/github/v/release/goldenlove/TimeGoes-Mac?color=green&v=1.6.11)](../../releases/latest)
+### 截屏
+
+![时流记 - 时间就是生命](./images/screenshot-1.png)
+![时光荏苒](./images/screenshot-2.png)
+![岁月如流](./images/screenshot-3.png)
+![点滴成记](./images/screenshot-4.png)
+
